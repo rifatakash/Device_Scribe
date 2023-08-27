@@ -27,18 +27,22 @@ Admin Panel: Leverage the Django admin panel for easy data management. Administr
 
 ## API Documentation
 DeviceScribe offers a range of Django RESTful APIs to interact with the system programmatically. Below are the API endpoints along with their descriptions:
+
 Companies
 Endpoint: /api/companies/
 Method: GET
 Description: Retrieve a list of all companies.
+
 Employees
 Endpoint: /api/employees/
 Method: GET
 Description: Retrieve a list of all employees.
+
 Devices
 Endpoint: /api/devices/
 Method: GET
 Description: Retrieve a list of all devices.
+
 Device Logs
 Endpoint: /api/device-logs/
 Method: GET
